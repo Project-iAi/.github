@@ -74,7 +74,7 @@
   </a>
 </p>
 
-# 🗄️ DataBase
+# 🗄️ ERD
 <img src="https://github.com/user-attachments/assets/b88ac5d7-7dff-4648-84eb-81121d3f1c03" width="300" alt="db">
 
 
@@ -88,4 +88,4 @@
 | [김가을](https://github.com/fallkim) | [장정운](https://github.com/jeongwoonjjang) |
 |------|------|
 | <img width="200" alt="김가을" src=""/> | <img width="200" alt="장정운" src="https://github.com/user-attachments/assets/69d0f938-e806-46e0-8a6b-24db5b564f1e"> |
-| <div align="center">`Back-end, DevOps`</div> | <div align="center">`Front-end, Design`</div> |
+| <div align="center">**`Back-end, DevOps`**</div> | <div align="center">**`Front-end, Design`**</div> |

@@ -2,7 +2,7 @@
 > **아이가 캐릭터와 음성으로 대화하며 ‘오늘 하루’와 감정을 기록**하는 서비스
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c5255ffa-ddb6-4f1b-94e0-3665c7c896d2" width="600" alt="I-AI Preview"/>
+  <img src="https://github.com/user-attachments/assets/980658d7-47a2-4eaa-9a34-6d4c6fb867ed" width="600" alt="I-AI Preview"/>
 </p>
 
 ---

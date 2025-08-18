@@ -14,18 +14,20 @@
 - **iOS** : 실제 앱 설치는 불가능하며, 대신 **시연 영상**을 통해 확인할 수 있습니다.
 
 ---
+## ✨ Features & Demo
 
-## 📚 목차
----
+| **회원가입 / 로그인** | **캐릭터 & 감정 선택** |
+|:-------------------:|:--------------------:|
+| <img width="390" alt="Sign up and Login" src="./docs/images/signup.png"> | <img width="390" alt="Character Selection" src="./docs/images/character.png"> |
 
----
-# 🎥Demo
-|**Sign up and Login**|**Character & Emotion Selection**|
-|:-------------------:|:---------:|
-|<img width="390" alt="Sign up and Login" src="">|<img width="390" alt="Character Selection" src="">|
-|**Conversation with Character**|
-|<img width="390" alt="Conversation" src="">|
-|<img width="390" alt="Diary" src="">|<img width="390" alt="View Past" src="">|
+| **캐릭터와 대화** | **그림일기 생성** |
+|:---------------------:|:--------------------:|
+| <img width="390" alt="Conversation" src="./docs/images/conversation.png"> | <img width="390" alt="Diary" src="./docs/images/diary.png"> |
+
+| **기록** | **성장 리포트** |
+|:----------------------------------:|:-----------------------------:|
+| <img width="390" alt="View Past" src="./docs/images/history.png"> | <img width="390" alt="Report" src="./docs/images/report.png"> |
+
 ---
 
 ---
@@ -47,27 +49,26 @@
 <p align="center">
 <strong> Backend <br></strong>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nest" />
+    <img src="https://skillicons.dev/icons?i=nestjs" />
   </a>
 </p>
 
 <p align="center">
-<strong> Storage <br></strong>
+<strong> Database <br></strong>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
 
 <p align="center">
-  <strong> DevOps <br></strong>
+  <strong> DevOps / Infra <br></strong>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws" />
+    <img src="https://skillicons.dev/icons?i=nginx,docker,aws" />
   </a>
 </p>
 
 <p align="center">
 <strong> Tool <br></strong>
-<br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,postman,notion" />
   </a>
@@ -83,21 +84,8 @@
 
 
 # 👨‍👩‍👧‍👦 Members
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/fallkim">
-        <img src="" width="200px;" alt="김가을"/>
-        <br />
-        <sub><b>김가을</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jeongwoonjjang">
-        <img src="" width="200px;" alt="장정운"/>
-        <br />
-        <sub><b>장정운</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+
+| [김가을](https://github.com/fallkim) | [장정운](https://github.com/jeongwoonjjang) |
+|------|------|
+| <img width="200" alt="김가을" src=""/> | <img width="200" alt="장정운" src="https://github.com/user-attachments/assets/69d0f938-e806-46e0-8a6b-24db5b564f1e"> |
+| `Back-end, DevOps` | `Front-end, Design` |

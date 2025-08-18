@@ -2,7 +2,7 @@
 > **아이가 캐릭터와 음성으로 대화하며 ‘오늘 하루’와 감정을 기록**하는 서비스
 
 <p align="center">
-  <img src="./docs/images/cover.png" width="820" alt="I-AI Preview"/>
+  <img src="https://github.com/user-attachments/assets/c5255ffa-ddb6-4f1b-94e0-3665c7c896d2" width="600" alt="I-AI Preview"/>
 </p>
 
 ---
@@ -10,25 +10,15 @@
 # 🧑🏼‍💻 How To Start
 🔗 [www.iailog.store](https://www.iailog.store)
 
-- **Android** : APK 파일을 직접 다운로드 받아 실행할 수 있습니다.  
+- **Android** : APK 파일을 직접 다운로드 받아 실행할 수 있습니다.
 - **iOS** : 실제 앱 설치는 불가능하며, 대신 **시연 영상**을 통해 확인할 수 있습니다.
 
 ---
 ## ✨ Features & Demo
 
-| **회원가입 / 로그인** | **캐릭터 & 감정 선택** |
-|:-------------------:|:--------------------:|
-| <img width="390" alt="Sign up and Login" src="./docs/images/signup.png"> | <img width="390" alt="Character Selection" src="./docs/images/character.png"> |
-
-| **캐릭터와 대화** | **그림일기 생성** |
-|:---------------------:|:--------------------:|
-| <img width="390" alt="Conversation" src="./docs/images/conversation.png"> | <img width="390" alt="Diary" src="./docs/images/diary.png"> |
-
-| **기록** | **성장 리포트** |
-|:----------------------------------:|:-----------------------------:|
-| <img width="390" alt="View Past" src="./docs/images/history.png"> | <img width="390" alt="Report" src="./docs/images/report.png"> |
-
----
+| **회원가입 / 로그인** | **컨셉 선택** | **캐릭터 & 감정 선택** | **캐릭터와 대화** | **그림일기 + 리포트** | **기록보러가기** |
+|:-------------------:|:------------:|:--------------------:|:----------------:|:----------------:|:----------------:|
+| <img src="https://github.com/user-attachments/assets/8a76e505-0f55-4583-9d9a-ed838677999c" width="135" alt="로그인&회원가입"> | <img src="https://github.com/user-attachments/assets/cf133c6a-19fb-41c6-8967-718c6c308b48" width="135" alt="컨셉 선택"> | <img src="https://github.com/user-attachments/assets/2d47ba9d-df42-4898-8c78-adf9622b64d2" width="135" alt="캐릭터&감정 선택"> | <img src="https://github.com/user-attachments/assets/9e13d8b2-b506-4801-a1d6-e8c265091504" width="135" alt="캐릭터와 대화"> | <img src="https://github.com/user-attachments/assets/fa07dc54-32fd-498e-98b2-8aae44631d7b" width="135" alt="그림일기 + 리포트 생성"> | <img src="https://github.com/user-attachments/assets/78f28b3b-1ee8-41b9-82b7-54b47ec76da2" width="135" alt="기록보러가기"> |
 
 ---
 # 🖥️ System Architecture
@@ -74,7 +64,7 @@
   </a>
 </p>
 
-# 🗄️ ERD
+# 🗄️ DataBase
 <img src="https://github.com/user-attachments/assets/b88ac5d7-7dff-4648-84eb-81121d3f1c03" width="300" alt="db">
 
 
@@ -87,5 +77,6 @@
 
 | [김가을](https://github.com/fallkim) | [장정운](https://github.com/jeongwoonjjang) |
 |------|------|
-| <img width="200" alt="김가을" src=""/> | <img width="200" alt="장정운" src="https://github.com/user-attachments/assets/69d0f938-e806-46e0-8a6b-24db5b564f1e"> |
-| <div align="center">**`Back-end, DevOps`**</div> | <div align="center">**`Front-end, Design`**</div> |
+| <img width="200" alt="김가을" src="https://github.com/user-attachments/assets/a80ae98a-aefc-4563-871c-c596c5161cce"/> | <img width="200" alt="장정운" src="https://github.com/user-attachments/assets/a130ee83-76d0-4644-a924-f91bb287363a"> |
+| <div align="center">`Back-end, DevOps`</div> | <div align="center">`Front-end, Design`</div> |
+

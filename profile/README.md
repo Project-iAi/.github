@@ -88,4 +88,4 @@
 | [김가을](https://github.com/fallkim) | [장정운](https://github.com/jeongwoonjjang) |
 |------|------|
 | <img width="200" alt="김가을" src=""/> | <img width="200" alt="장정운" src="https://github.com/user-attachments/assets/69d0f938-e806-46e0-8a6b-24db5b564f1e"> |
-| `Back-end, DevOps` | `Front-end, Design` |
+| <div align="center">`Back-end, DevOps`</div> | <div align="center">`Front-end, Design`</div> |

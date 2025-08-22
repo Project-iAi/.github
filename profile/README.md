@@ -76,6 +76,5 @@
 
 | [김가을](https://github.com/fallkim) | [장정운](https://github.com/jeongwoonjjang) |
 |------|------|
-| <img width="200" alt="김가을" src="https://github.com/user-attachments/assets/4ad32961-3828-427c-bc9a-295e660374bb"/> | <img width="200" alt="장정운" src="https://github.com/user-attachments/assets/a130ee83-76d0-4644-a924-f91bb287363a"> |
+| <img width="200" alt="김가을" src="https://github.com/user-attachments/assets/655fb967-6c30-4003-86b4-807f26428112"/> | <img width="210" alt="장정운" src="https://github.com/user-attachments/assets/a130ee83-76d0-4644-a924-f91bb287363a"> |
 | <div align="center">`Back-end, DevOps`</div> | <div align="center">`Front-end, Design`</div> |
-
